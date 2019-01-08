@@ -1772,7 +1772,7 @@ body {
 .cid-reouWSDLR1 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/1920-1920x1080.jpg");
+  background-color: #efefef;
 }
 .cid-reouWSDLR1 h3 {
   text-align: center;
@@ -1783,6 +1783,7 @@ body {
 }
 .cid-reouWSDLR1 .mbr-content-text {
   color: #767676;
+  text-align: center;
 }
 .cid-reouWSDLR1 .panel-item {
   background: #ffffff;
@@ -1793,6 +1794,9 @@ body {
 .cid-reouWSDLR1 .mbr-iconfont {
   font-size: 80px;
   color: #149dcc;
+}
+.cid-reouWSDLR1 .mbr-section-title {
+  text-align: center;
 }
 .cid-reov0IUfug {
   padding-top: 90px;
@@ -1820,6 +1824,9 @@ body {
 .cid-reov0IUfug .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-reov0IUfug LABEL {
+  text-align: right;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
